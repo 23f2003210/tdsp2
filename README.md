@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: LLM Analysis Quiz Solver
 emoji: 🏃
 colorFrom: red
@@ -389,3 +390,15 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 **Institution**: IIT Madras
 
 For questions or issues, please open an issue on the [GitHub repository](https://github.com/23f3002766/tds-geniesolver).
+=======
+title: Tdsp2
+emoji: 👁
+colorFrom: red
+colorTo: purple
+sdk: docker
+pinned: false
+short_description: This is for TDS Project 2
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+>>>>>>> a3d674078794607b5c0aa314eace897df8d6420a
