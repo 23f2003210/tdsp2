@@ -2,7 +2,7 @@
 title: TDSP2 Geniesolver
 emoji: 🏃
 colorFrom: red
-colorTo: orange
+colorTo: green
 sdk: docker
 sdk_version: "0.1"
 app_file: main.py
